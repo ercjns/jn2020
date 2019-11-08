@@ -1,5 +1,4 @@
-- name: Home
-  link: index
-  dropdown: 
-    - name: Page 2
-      link: page-2
+name: Registration
+name: Schedule
+name: Bulletins
+name: Travel Info
