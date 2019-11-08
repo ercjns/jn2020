@@ -1,4 +1,8 @@
-name: Registration
-name: Schedule
-name: Bulletins
-name: Travel Info
+- name: Registration
+  link: registration
+- name: Schedule
+  link: schedule
+- name: Bulletins
+  link: bulletins
+- name: Travel Info
+  link: travel-info
