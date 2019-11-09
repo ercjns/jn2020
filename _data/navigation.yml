@@ -1,8 +1,12 @@
+- name: Bulletins
+  link: bulletins
 - name: Registration
   link: registration
 - name: Schedule
   link: schedule
-- name: Bulletins
-  link: bulletins
 - name: Travel Info
   link: travel-info
+- name: Merch
+  link: merch
+- name: Results
+  link: results
