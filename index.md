@@ -6,6 +6,8 @@ description: Orienteering USA Junior National Championships
 hero_image: /jn2020/assets/img/hero_test.png
 hero_link: /register/
 hero_link_text: Register Now!
+callouts: home_callouts
+
 ---
 ## Under Construction
 Keep your eyes on this page, registration will open soon!
