@@ -1,0 +1,23 @@
+style: is-light
+height: is-medium
+items:
+  - title: Registration
+    subtitle: Sign up on OUSA Event Reg
+    icon: fa-edit
+    description: >
+      The example description text goes here and can be multiple lines.
+
+      For example, such as this. 
+    call_to_action_name: Register Now!
+    call_to_action_link: /register/
+    
+  - title: Lodging
+    subtitle: Stay in the Athlete's Village
+    icon: fa-bed
+    description: >
+      The example description text goes here and can be multiple lines.
+
+      For example, such as this.
+    call_to_action_name: Stay on Site!
+    call_to_action_link: /athletes-village/
+
