@@ -1,12 +1,27 @@
-- name: Bulletins
-  link: bulletins
-- name: Registration
-  link: registration
-- name: Schedule
-  link: schedule
-- name: Travel Info
-  link: travel-info
-- name: Merch
-  link: merch
-- name: Results
-  link: results
+- name: Orienteering
+  link: #
+  dropdown:
+  - name: Schedule
+    link: /schedule/
+  - name: Registration
+    link: /registration/
+  - name: Results
+    link: /results/
+  - name: Bulletins
+    link: /bulletins/
+- name: Local Info
+  link: #
+  dropdown:
+  - name: Travel
+    link: /travel-info/
+  - name: Athlete's Village
+    link: /village/
+  - name: Related Events
+    link: /events/
+- name: More
+  link: #
+  dropdown:
+  - name: Merchandise
+    link: /merch/
+  - name: Contacts
+    link: /contact/
