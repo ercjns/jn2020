@@ -1,0 +1,19 @@
+- label: 2020 Lighthouse Classic
+  link: /
+  items:
+    - name: Bulletins
+      link: /bulletins/
+    - name: Schedule
+      link: /schedule/
+    - name: Registration
+      link: /registration/
+    - name: Results
+      link: /results/
+    - name: Travel
+      link: /travel-info/
+    - name: Athlete's Village
+      link: /village/
+    - name: Merchandise
+      link: /merch/
+    - name: Contacts
+      link: /contact/
