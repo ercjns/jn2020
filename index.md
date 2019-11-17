@@ -3,9 +3,9 @@ layout: page
 title: Lighthouse Classic 
 subtitle: OUSA 2020 Junior Nationals. April 17-19, Whidbey Island, Washington
 description: Orienteering USA Junior National Championships
-hero_image: /assets/img/hero_test_filter_flip.png
+hero_image: assets/img/hero_test_filter_flip.png
 hero_height: is-large
-hero_link: /register/
+hero_link: register
 hero_link_text: Register Now!
 callouts: home_callouts
 
