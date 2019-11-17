@@ -6,6 +6,8 @@ description: Orienteering USA Junior National Championships Schedule
 hide_hero: true
 show_sidebar: false
 menubar: leftnav
+
+redirect_from: "/register"
 ---
 
 ## Registration
