@@ -2,18 +2,18 @@
   link: /
   items:
     - name: Bulletins
-      link: bulletins
+      link: /bulletins
     - name: Schedule
-      link: schedule
+      link: /schedule
     - name: Registration
-      link: registration
+      link: /registration
     - name: Results
-      link: results
+      link: /results
     - name: Travel
-      link: travel-info
+      link: /travel-info
     - name: Athlete's Village
-      link: village
+      link: /village
     - name: Merchandise
-      link: merch
+      link: /merch
     - name: Contacts
-      link: contact
+      link: /contact

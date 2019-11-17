@@ -2,26 +2,26 @@
   link: #
   dropdown:
   - name: Schedule
-    link: schedule
+    link: /schedule
   - name: Registration
-    link: registration
+    link: /registration
   - name: Results
-    link: results
+    link: /results
   - name: Bulletins
-    link: bulletins
+    link: /bulletins
 - name: Local Info
   link: #
   dropdown:
   - name: Travel
-    link: travel-info
+    link: /travel-info
   - name: Athlete's Village
-    link: village
+    link: /village
   - name: Related Events
-    link: events
+    link: /events
 - name: More
   link: #
   dropdown:
   - name: Merchandise
-    link: merch
+    link: /merch
   - name: Contacts
-    link: contact
+    link: /contact
