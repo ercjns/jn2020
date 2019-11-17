@@ -3,7 +3,7 @@ layout: page
 title: Lighthouse Classic 
 subtitle: OUSA 2020 Junior Nationals. April 17-19, Whidbey Island, Washington
 description: Orienteering USA Junior National Championships
-hero_image: /jn2020/assets/img/hero_no_text.jpg
+hero_image: /assets/img/hero_test_filter_flip.png
 hero_height: is-large
 hero_link: /register/
 hero_link_text: Register Now!
@@ -11,13 +11,15 @@ callouts: home_callouts
 
 ---
 ## Under Construction
+
 Keep your eyes on this page, registration will open soon!
 
-
 ## Embargo
-[A.7.4](https://orienteeringusa.org/about/rules/) When a Bid Event is submitted to sanctioning, the area is closed to orienteering competitions and training until the event takes place. Individuals or groups visiting the closed venue shall not be eligible for competition, awards, or rankings, but they may nevertheless participate in the event. 
+
+[A.7.4](https://orienteeringusa.org/about/rules/) When a Bid Event is submitted to sanctioning, the area is closed to orienteering competitions and training until the event takes place. Individuals or groups visiting the closed venue shall not be eligible for competition, awards, or rankings, but they may nevertheless participate in the event.
 
 The following locations may not be visited prior to the event:
+
 * Ft Ebey State Park
 * The Kettles Recreational Area (next to Ft Ebey)
 * Ft Casey Historical State Park
