@@ -29,7 +29,7 @@ github_username:  ercjns
 favicon: /assets/img/favivon.png
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: bulma-clean-theme
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
