@@ -30,7 +30,7 @@ E-Punch Rental adds $5 per race
 
 OUSA Members receive $4 discount per race
 
-Room and Board in **Athletes Village** is $62.50 per night. More information about this offering on the [travel info]({% link travel-info.markdown %}) page.
+Room and Board in [**Athletes Village**]({% link village.markdown %}) is $62.50 per night.
 
 ## Volunteer
 
