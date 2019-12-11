@@ -1,19 +1,26 @@
 style: is-light
-height: is-medium
+height: is-small
 items:
   - title: Registration
-    subtitle: Sign up on OUSA Event Reg
+    subtitle: Navigate in the Pacific Northwest
     icon: fa-edit
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
+      Register for all events using OUSA Event Reg
     call_to_action_name: Register Now!
     call_to_action_link: /register
+
   - title: Lodging
     subtitle: Stay in the Athlete's Village
     icon: fa-bed
     description: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this.
+      Lodging, meals, and community for individuals, families, and teams.
     call_to_action_name: Stay on Site!
-    call_to_action_link: /athletes-village
+    call_to_action_link: /village
+
+  - title: Gear
+    subtitle: More than a Memory
+    icon: fa-tshirt
+    description: >
+      T-Shirts and More are available for purchase NOW.
+    call_to_action_name: Get yours!
+    call_to_action_link: /merch

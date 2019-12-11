@@ -12,16 +12,30 @@ toc_title: Schedule
 
 ## Friday April 17
 
-* Model Course at Putney Woods
-* JWOC Trials Sprint at South Whidbey Community Park
-* Evening Mixer Relay
+* 7:00am Breakfast at Camp Casey
+* Noon Model Course open at Putney Woods
+* 3:00pm - 6:00pm Packet Pickup at South Whidbey Community Park
+* 4:00pm First Start 
+* 6:00pm Last Start 
+* 7:00pm Courses Close 
+* 7:00pm Dinner at Camp Casey
+* 7:00pm - 9:00pm Packet Pickup at Camp Casey
+* 8:30pm Evening Activities
 
 ## Saturday April 18
-
-* Long at Putney Woods
+* All day: Model Course Open at Putney Woods
+* Packet Pickup at Ft. Ebey
+* Day of Meet Registration (recreational courses only) at Ft. Ebey
+* First Start
+* Last Start
+* Courses Close
+* Dinner
 * Evening Social
 
 ## Sunday April 19
-
-* Middle at Fort Casey
-* Awards
+* Packet Pickup at Camp Casey
+* Day of Meet Registration (recreational courses only) at Camp Casey
+* First Start
+* Last Start
+* Courses Close
+* Awards Ceremony

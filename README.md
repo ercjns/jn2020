@@ -12,3 +12,8 @@ Starting by using a theme I found [here](https://github.com/chrisrhymes/bulma-cl
 * Content content content
 * Editabilty by non-tech folks
 * Confirm the COC subdomain can point here
+
+## Dev Environment
+Using WSL for this project. 
+Navigate to the folder in WSL and run `bundle update` to make sure everything's in place
+For normal development, run `bundle exec jekyll serve` and view the site at `localhost:4000/jn2020/`.

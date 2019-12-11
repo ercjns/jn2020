@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Travel Info
-description: Orienteering USA Junior National Championships Schedule
+description: Orienteering USA Junior National Championships Travel
 
 hide_hero: true
 show_sidebar: false
@@ -22,7 +22,7 @@ With the Camp Casey event center situated slightly north of the middle of the is
 ## Getting to the Athlete's Village and Event Center
 
 The Athlete's Village and Event Center is located at Camp Casey, just off Hwy 20 just north of Fort Casey
-<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d342299.67771296785!2d-122.47094!3d47.9128534!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x548ff3a91ba7a0a1%3A0xbfd9b1bc3b6a368f!2sCamp%20Casey%20Conference%20Center%2C%201276%20S%20Engle%20Rd%2C%20Coupeville%2C%20WA%2098239!3m2!1d48.166021699999995!2d-122.68128899999999!5e0!3m2!1sen!2sus!4v1573374125249!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d342299.67771296785!2d-122.47094!3d47.9128534!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x548ff3a91ba7a0a1%3A0xbfd9b1bc3b6a368f!2sCamp%20Casey%20Conference%20Center%2C%201276%20S%20Engle%20Rd%2C%20Coupeville%2C%20WA%2098239!3m2!1d48.166021699999995!2d-122.68128899999999!5e0!3m2!1sen!2sus!4v1573374125249!5m2!1sen!2sus" width="600" height="850" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ## Getting to the Events
 
