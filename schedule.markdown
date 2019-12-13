@@ -12,30 +12,41 @@ toc_title: Schedule
 
 ## Friday April 17
 
-* 7:00am Breakfast at Camp Casey
-* Noon Model Course open at Putney Woods
-* 3:00pm - 6:00pm Packet Pickup at South Whidbey Community Park
-* 4:00pm First Start 
-* 6:00pm Last Start 
-* 7:00pm Courses Close 
-* 7:00pm Dinner at Camp Casey
-* 7:00pm - 9:00pm Packet Pickup at Camp Casey
-* 8:30pm Evening Activities
+#### Packet Pickup
+* 2:00-3:00pm. South Whidbey HS Registration Tent
+* 5:00-7:00pm. Athletes' Village Auditorium B
+
+#### Sprint @ South Whidbey HS
+* 3:00-4:00pm. Registration (Recreational Course ONLY)
+* 3:30-4:15pm. Starts open (30 second interval)
+* 4:30pm. Courses Closed
+
+#### Other Activities
+* Noon - Dark. Model Course at Putney Woods
+* 7:00pm. Evening Activities at Athletes' Village
 
 ## Saturday April 18
-* All day: Model Course Open at Putney Woods
-* Packet Pickup at Ft. Ebey
-* Day of Meet Registration (recreational courses only) at Ft. Ebey
-* First Start
-* Last Start
-* Courses Close
-* Dinner
-* Evening Social
+
+#### Packet Pickup
+* 8:30 - Noon. Ft. Ebey
+
+#### Long @ Ft. Ebey
+* 9:30am - Noon. Registration (Recreational Courses ONLY)
+* 10:00am - Noon. Starts open (2 minute interval)
+* 3:30pm. Courses closed
+
+#### Other Activities
+* All day. Model Course at Putney Woods
+* 7:00pm. Evening Activities at Athletes' Village
 
 ## Sunday April 19
-* Packet Pickup at Camp Casey
-* Day of Meet Registration (recreational courses only) at Camp Casey
-* First Start
-* Last Start
-* Courses Close
-* Awards Ceremony
+
+#### Middle @ Camp Casey
+* 7:30am - 10:00am. Check-in and Registration (Recreational Courses ONLY)
+* 8:00am - 10:00am. Starts open (2 minute interval)
+* 12:30pm Courses closed
+* Noon. Awards
+
+_Sunday afternoon and evening traffic can be busy heading back to the city. We recommend scheduling return flights no earlier than 6pm._
+
+
