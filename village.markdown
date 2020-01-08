@@ -56,6 +56,6 @@ There are also many Bed and Breakfast, historical small inns and Air bnb’s on 
 * Yerts and camping at Cliffside Park
 
 ### Camping
-Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey (Athlete's Village) with access to restrooms, showers, and electric hook ups. Contact Jud Kelley to book (not on EventReg). There are also other campgrounds available on the island.
+Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey (Athletes' Village) with access to restrooms, showers, and electric hook ups. Contact Jud Kelley to book (not on EventReg). There are also other campgrounds available on the island.
 
 
