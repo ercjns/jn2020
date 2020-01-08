@@ -20,17 +20,17 @@ Official registration for Orienteering Events, Evening Activities, and Lodging i
 
 ### Pricing
 
-| Event | Adult | Junior | Late Adult (after March 1?) | Late Junior (After March 1?) |
+| Event | Adult | Junior | Late Adult (after March 1) | Late Junior (After March 1) |
 | ----- |  ---: |  ----: |  ---: |  ----: |
-| Friday Sprint | $20 | $10 | $30 | $20 |
-| Saturday Long | $40 | $25 | $50 | $35 |
-| Sunday Middle | $40 | $25 | $50 | $35 |
+| Friday Sprint | $25 | $15 | $30 | $20 |
+| Saturday Long | $45 | $25 | $50 | $30 |
+| Sunday Middle | $45 | $25 | $50 | $30 |
 
-E-Punch Rental adds $5 per race
+E-Punch Rental adds $2.50 per race
 
-OUSA Members receive $4 discount per race
+OUSA members recieve a discount per race: $4 Adults, $2 Juniors.
 
-Room and Board in [**Athletes Village**]({% link village.markdown %}) is $62.50 per night.
+Room and Board in [**Athletes Village**]({% link village.markdown %}) starts at $65.00 per night.
 
 ## Volunteer
 
