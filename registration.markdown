@@ -12,7 +12,7 @@ redirect_from: "/register"
 
 ## Registration
 
-Official registration for Orienteering Events, Evening Activities, and Lodging in Athlete's Village is all via OUSA EventReg.
+Official registration for Orienteering Events, Evening Activities, and Lodging in Athletes' Village is all via OUSA EventReg.
 
 _Final configurations are being made on EventReg, registration will open soon!_
 
