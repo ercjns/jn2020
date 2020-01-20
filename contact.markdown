@@ -10,4 +10,4 @@ menubar: leftnav
 
 # Contact
 
-Still have questions? Contact the event team: email
+Still have questions? Contact event director [Jud Kelley](http://cascadeoc.org/contact/jud-kelley/).
