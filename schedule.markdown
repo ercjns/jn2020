@@ -42,6 +42,8 @@ toc_title: Schedule
 
 ## Sunday April 19
 
+_The Deception Pass bridge will close from roughly 6:45am to 7:45am on Sunday morning. Expect delays between Deception Pass and Oak Harbor (North of all venues) all morning._
+
 #### Middle @ Camp Casey
 * 7:30am - 10:00am. Race Check-in. Registration for Recreational Courses only.
 * 8:00am - 10:30am. Starts open (2 minute interval)
