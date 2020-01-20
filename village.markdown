@@ -45,7 +45,7 @@ Meals include dinner on arrival day, breakfast, and a sack lunch. (The "2 night"
 We'll have events Friday and Saturday evening to help foster the orienteering community. Details coming soon.
 
 ## Other Lodging Options
-<span class="has-text-warning"><i class="fas fa-exclamation-circle"></i></span> The Whidbey Island Marathon is also this weekend! Lodging options are already filling up, book your lodging soon! Also note that due to the marathon, the deception pass bridge will close from roughly 6:45am to 7:45am on Sunday morning - please avoid staying in Anacortes or other locations north of Deception Pass.
+The Whidbey Island Marathon is also this weekend! Lodging options are already filling up, book your lodging soon! Also note that due to the marathon, the deception pass bridge will close from roughly 6:45am to 7:45am on Sunday morning - please avoid staying in Anacortes or other locations north of Deception Pass.
 
 ### Hotels
 ##### Oak Harbor
