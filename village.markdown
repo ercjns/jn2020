@@ -17,7 +17,10 @@ We're providing a unique athletes' village experience - there will be activities
 
 Reserve your spot in Athletes' Village when you register for orienteering on EventReg. (Coaches, Parents, Chaperones, and other non-racers staying at Athlete's Village must also reserve a spot via Event Reg, simply click through race registration - Athlete's Village is on the very last page.)
 
-<a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Reserve your spot via EventReg</a>
+_Final configurations are being made on EventReg, registration will open soon!_
+
+<!-- <a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Reserve your spot via EventReg</a>
+-->
 
 ### Lodging
 
