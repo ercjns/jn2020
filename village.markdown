@@ -46,7 +46,10 @@ Meals include dinner on arrival day, breakfast, and a sack lunch. (The "2 night"
 
 ### Activities
 
-We'll have events Friday and Saturday evening to help foster the orienteering community. Details coming soon.
+We'll have events Friday and Saturday evening  as well as various open gym times throughout the weekend to help foster the orienteering community.
+
+* Friday: Movie Night (*McFarland*) upstairs, Board Games and map study downstairs. Snacks: Popcorn, candy and drinks
+* Saturday: Trivia Night intermixed with Course Review and map notes. Snacks: Sundae and fruit bar, drinks.
 
 ## Other Lodging Options
 The Whidbey Island Marathon is also this weekend! Lodging options are already filling up, book your lodging soon! Also note that due to the marathon, the deception pass bridge will close from roughly 6:45am to 7:45am on Sunday morning - please avoid staying in Anacortes or other locations north of Deception Pass.
