@@ -24,7 +24,11 @@ _Final configurations are being made on EventReg, registration will open soon!_
 
 ### Lodging
 
-Lodging at the Camp Casey Event Center is restored military housing from the early 1990s. We have a mix of beds in bunkrooms and dorms. More details about the lodging can be found <a href="https://casey.spu.edu/staying-at-camp-casey/lodging/">here</a>. You'll be assigned to a floor based on gender. A limited number of beds are available for Thursday arrivals as well as Monday departures. 
+Lodging at the Camp Casey Event Center is restored military housing from the early 1990s. We have a mix of beds in bunkrooms and 2-bed dorms. More details about the lodging can be found <a href="https://casey.spu.edu/staying-at-camp-casey/lodging/">here</a>. You'll be assigned to a floor based on gender. A limited number of beds are available for Thursday arrivals as well as Monday departures. 
+
+![Image of Bunkroom](./assets/img/Bunks.jpeg)
+![Image of 2 Bed Dorm](./assets/img/2BedDorm.jpeg)
+
 
 ### Meals
 
