@@ -13,11 +13,11 @@ Welcome! We're excited for you to join us in the Pacific Northwest! The event ce
 
 ## Getting to and from Seattle
 
-Seattle's main airport is Seattle-Tacoma international (SEA), south of the city. You may also consider flying into Everett (PAE) or Bellingham (BLI) which have limited service. Also consider Amtrak, BoltBus, and other transportation options. 
+Seattle's main airport is Seattle-Tacoma International (SEA), south of the city. You may also consider flying into Everett (PAE) or Bellingham (BLI) which have limited service. Also consider Amtrak, BoltBus, and other transportation options. 
 
 ## Getting to and from Whidbey Island
 
-Drive time from Sea-Tac airport to Camp Casey is 120 miles and can take 2.5 to 3.5 hours depending on the time of day, traffic and ferries. With the Camp Casey event center situated slightly north of the middle of the island, if you're coming from Seattle, you have a choice to either take the ferry from the south or drive to the bridge at the north. Check the [ferry schedule](https://www.wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=muk-cl), usually every 30 minutes, and wait times ([Mukilteo](https://www.wsdot.wa.gov/ferries/vesselwatch/terminaldetail.aspx?terminalid=14#waittime), [Clinton](https://www.wsdot.wa.gov/ferries/vesselwatch/TerminalDetail.aspx?terminalid=5#waittime)). At busy times (such as friday evenings and sunday afternoons) the ferry does fill up, and if you have to wait even one sailing it is often *faster to drive around*. 
+Drive time from Sea-Tac airport to Camp Casey is 120 miles and can take 2.5 to 3.5 hours depending on the time of day, traffic and ferries. With the Camp Casey event center situated slightly north of the middle of the island, if you're coming from Seattle, you have a choice to either take the ferry from the south or drive to the bridge at the north. Check the [ferry schedule](https://www.wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=muk-cl), usually every 30 minutes, and wait times ([Mukilteo](https://www.wsdot.wa.gov/ferries/vesselwatch/terminaldetail.aspx?terminalid=14#waittime), [Clinton](https://www.wsdot.wa.gov/ferries/vesselwatch/TerminalDetail.aspx?terminalid=5#waittime)). At busy times (such as Friday evenings and Sunday afternoons) the ferry does fill up, and if you have to wait even one sailing it is often *faster to drive around*.
 
 ## Getting to the Athlete's Village and Event Center
 
@@ -32,7 +32,7 @@ The Athlete's Village and Event Center is located at Camp Casey, just off Hwy 20
 
 ### Fort Ebey State Park (Saturday Long)
 
-Parking is limited at Fort Ebey State park, and *all participants and volunteers* must take a free shuttle to the park. Team vans will be allowed to drop off participants but the driver must park at the shuttle location. A discover pass is required for all vehicles entering the state park, even those just dropping off participants.
+Parking is limited at Fort Ebey State Park, and *all participants and volunteers* must take a free shuttle to the park. Team vans will be allowed to drop off participants but the driver must park at the shuttle location. A Discover Pass is required for all vehicles entering the state park, even those just dropping off participants.
 
 ### Fort Casey State Park (Sunday Middle)
 

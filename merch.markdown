@@ -12,7 +12,7 @@ menubar: leftnav
 
 ## T-Shirts and More
 
-Official event t-shirts, hoodies, and other items are available NOW for purchase directly from CustomInk and delivered to you! *All event merchandise is pre-order only, there will be no on-site merchandise sales.*
+Official event t-shirts, hoodies, and other items are available NOW for purchase directly from CustomInk and delivered directly to your home! *All event merchandise is pre-order only, there will be no on-site merchandise sales.*
 
 ![Lighthouse Classic Hoodie](./assets/img/merch.png)
 

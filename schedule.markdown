@@ -20,7 +20,7 @@ toc_title: Schedule
 #### Other Activities
 * Noon - Dark, Putney Woods: Model Course available.
 * 4:00pm, Camp Casey Gym: Check-in for Athlete's Village and Packet Pickup for participants not pre-registered for the sprint.
-* 6:30pm - 7:30pm, Camp Casey: Dinner
+* 6:00pm - 7:30pm, Camp Casey: Dinner
 * 8:00pm - 10:00pm, Camp Casey: Evening social. (Map review, games, movie)
 * 10:00pm Quiet Hours at Camp Casey
 
@@ -37,7 +37,7 @@ toc_title: Schedule
 * 7:30am - 9:00am, Camp Casey: Breakfast (and sack lunch pickup).
 * 6:00pm - 7:00pm, Camp Casey: Dinner
 * 7:00pm - 8:00pm, Camp Casey: Map Review
-* 8:00pm - 10:00pm, Camp Casey: Evening social. (Map review, games, movie)
+* 8:00pm - 10:00pm, Camp Casey: Evening social. (Map review, games)
 * 10:00pm Quiet Hours at Camp Casey
 
 ## Sunday April 19

@@ -13,9 +13,9 @@ redirect_from: "/lodging"
 
 # Athletes' Village
 
-We're providing a unique athletes' village experience - there will be activities on site in the evenings, easy access to all of the orienteering venues, and opportunities to meet and learn from your fellow competitors, all for a simple room and board fee.
+We're providing a unique Athletes' Village experience - there will be activities on site in the evenings, easy access to all of the orienteering venues, and opportunities to meet and learn from your fellow competitors, all for a simple room and board fee.
 
-Reserve your spot in Athletes' Village when you register for orienteering on EventReg. (Coaches, Parents, Chaperones, and other non-racers staying at Athletes' Village must also reserve a spot via Event Reg, simply click through race registration - Athlete's Village is on the very last page.)
+Reserve your spot in Athletes' Village when you register for orienteering on EventReg. (Coaches, Parents, Chaperones, and other non-racers staying at Athletes' Village must also reserve a spot via Event Reg, simply click through race registration - Athletes' Village is on the very last page.)
 
 _Final configurations are being made on EventReg, registration will open soon!_
 
@@ -39,17 +39,17 @@ Meals include dinner on arrival day, breakfast, and a sack lunch. (The "2 night"
 ### Pricing
 
 |  | 2 nights | 3 nights | 4 nights |
-| ----- |  ---: |  ----: |      ---: |    
+| ----- |  ---: |  ----: |      ---: |
 | Barracks bed + Meals | $130 | $195 |  $260 |
-| Bed in 2-bed room + Meals | $150 | $225 | $300 | 
+| Bed in 2-bed room + Meals | $150 | $225 | $300 |
 | Meals Only | $80 | $120 | $160 |
 
 ### Activities
 
-We'll have events Friday and Saturday evening  as well as various open gym times throughout the weekend to help foster the orienteering community.
+We'll have events Friday and Saturday evening as well as various open gym times throughout the weekend.
 
-* Friday: Movie Night (*McFarland*) upstairs, Board Games and map study downstairs. Snacks: Popcorn, candy and drinks
-* Saturday: Trivia Night intermixed with Course Review and map notes. Snacks: Sundae and fruit bar, drinks.
+* Friday: Movie Night (*McFarland*) upstairs, board games and map study downstairs. Snacks: popcorn, candy, and drinks
+* Saturday: Trivia Night intermixed with course review and map notes. Snacks: ice cream (regular and dairy free) and drinks
 
 ## Other Lodging Options
 The Whidbey Island Marathon is also this weekend! Lodging options are already filling up, book your lodging soon! Also note that due to the marathon, the deception pass bridge will close from roughly 6:45am to 7:45am on Sunday morning - please avoid staying in Anacortes or other locations north of Deception Pass.
@@ -77,5 +77,3 @@ There are also many Bed and Breakfast, historical small inns and Air bnb’s on 
 
 ### Camping
 Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey (Athletes' Village) with access to restrooms, showers, and electric hook ups. Contact Jud Kelley to book (not on EventReg). There are also other campgrounds available on the island.
-
-

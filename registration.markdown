@@ -53,11 +53,11 @@ If you are eyeing a spot on the OUSA JWOC team (Junior World Orienteering Champi
 
 _2. What class should I register for?_
 
-Juniors should register for the appropriate Interscholastic (IS) or Intercollegiate (IC) class based on their grade and skill level. Age based classes (F-16, M-12) should only be used by juniors who do not qualify for Junior Nationals awards (for example: non-US Juniors?)
+Juniors should register for the appropriate Interscholastic (IS) or Intercollegiate (IC) class based on their grade and skill level. Age based classes (F-16, M-12) should only be used by juniors who do not qualify for Junior Nationals awards (for example: non-US Juniors).
 
 _3. What is a school team vs a club team?_
 
-School teams consist of individuals from the same school. Club teams can be formed by individuals who wish to participate as a team but do not attend the same school. For special cases such as homeschool or head-start students, see school eligibility information in the OUSA rules.
+School teams consist of individuals from the same school. Club teams can be formed by individuals who wish to participate as a team but do not attend the same school. For special cases such as homeschool or head-start students, see school eligibility information in the [OUSA rules](https://orienteeringusa.org/about/rules/) section A.37.
 
 _4. I'm a parent or coach, can I register for my family or team and only make one payment?_
 
