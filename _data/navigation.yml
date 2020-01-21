@@ -1,5 +1,4 @@
 - name: Orienteering
-  link: /home
   dropdown:
   - name: Schedule
     link: /schedule
@@ -10,14 +9,12 @@
   - name: Bulletins
     link: /bulletins
 - name: Local Info
-  link: /home
   dropdown:
   - name: Travel
     link: /travel-info
   - name: Lodging & Athletes' Village
     link: /village
 - name: More
-  link: /home
   dropdown:
   - name: Merchandise
     link: /merch
