@@ -4,7 +4,7 @@
 {% for menu in menus %}
     <p class="menu-label">{{ menu.label }}</p>
     {% if menu.image %}
-    <p class="menu-img"><img src="{{ menu.image }}"></p>
+    <p class="menu-img"><img src="{{ menu.image }}" style="height: auto; width: 300px; max-width: 100%;"></p>
     {% endif %}
     <ul class="menu-list">
         {% for item in menu.items %}
