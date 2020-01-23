@@ -26,15 +26,19 @@ The Athlete's Village and Event Center is located at Camp Casey, just off Hwy 20
 
 ## Getting to the Events
 
-### Putney Woods (Model Map)
-
 ### South Whidbey Community Park (Sprint)
 
-### Fort Ebey State Park (Saturday Long)
+Details coming soon.
 
-Parking is limited at Fort Ebey State Park, and *all participants and volunteers* must take a free shuttle to the park. Team vans will be allowed to drop off participants but the driver must park at the shuttle location. A Discover Pass is required for all vehicles entering the state park, even those just dropping off participants.
+### Fort Ebey State Park (Model Map and Saturday Long)
+
+The Model map will be located in the northwest corner of Fort Ebey State Park. A [Discover Pass](https://store.discoverpass.wa.gov/) is required to enter the park.
+
+Parking is limited at Fort Ebey State Park, and *all participants and volunteers* must take a free shuttle to the park on Saturday. Team vans will be allowed to drop off participants but the driver must park at the shuttle location. A [Discover Pass](https://store.discoverpass.wa.gov/) is required for all vehicles entering Fort Ebey State Park, even those just dropping off participants.
 
 ### Fort Casey State Park (Sunday Middle)
+
+Details coming soon.
 
 ## Travel Notes
 

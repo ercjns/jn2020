@@ -34,7 +34,7 @@ Lodging at the Camp Casey Event Center is restored military housing from the ear
 
 Meals will be in the Camp Casey Dining Hall - a great opportunity to spend some time meeting new friends over a meal, review your course, and relax. Be sure to provide any dietary restriction information when you register. We'll have snack tables available outside of meals as well. Please bring refillable water bottles for drinks.
 
-Meals include dinner on arrival day, breakfast, and a sack lunch. (The "2 night" meal plan covers Friday dinner through Sunday lunch.)
+Meals include dinner on arrival day, breakfast, and a sack lunch. The "2 night" meal plan covers Friday dinner through Sunday lunch.
 
 ### Pricing
 
@@ -76,4 +76,4 @@ There are also many Bed and Breakfast, historical small inns and Air bnb’s on 
 * Yerts and camping at Cliffside Park
 
 ### Camping
-Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey (Athletes' Village) with access to restrooms, showers, and electric hook ups. Contact Jud Kelley to book (not on EventReg). There are also other campgrounds available on the island.
+Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey (Athletes' Village) with access to restrooms, showers, and electric hook ups. Contact [Jud Kelley](http://cascadeoc.org/contact/jud-kelley/) to book (campsites are not booked via EventReg). There are also other campgrounds available on the island.
