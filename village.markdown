@@ -29,6 +29,7 @@ Lodging at the Camp Casey Event Center is restored military housing from the ear
 ![Image of Bunkroom](./assets/img/Bunks.png)
 ![Image of 2 Bed Dorm](./assets/img/2BedDorm.png)
 
+Embargo note - participants staying in the accommodations at Camp Casey Conference Center or the Camp Casey Inn, or visiting those areas for meals other public use, may not venture into the forested areas for training or exploration purposes.
 
 ### Meals
 
@@ -54,6 +55,8 @@ We'll have events Friday and Saturday evening as well as various open gym times 
 ## Other Lodging Options
 The Whidbey Island Marathon is also this weekend! Lodging options are already filling up, book your lodging soon! Also note that due to the marathon, the deception pass bridge will close from roughly 6:45am to 7:45am on Sunday morning - please avoid staying in Anacortes or other locations north of Deception Pass.
 
+Embargo note - participants staying in the accommodations at Camp Casey Conference Center or the Camp Casey Inn, or visiting those areas for meals other public use, may not venture into the forested areas for training or exploration purposes.
+
 ### Hotels
 ##### Oak Harbor
 * Best Western
@@ -76,4 +79,4 @@ There are also many Bed and Breakfast, historical small inns and Air bnb’s on 
 * Yerts and camping at Cliffside Park
 
 ### Camping
-Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey (Athletes' Village) with access to restrooms, showers, and electric hook ups. Contact [Jud Kelley](http://cascadeoc.org/contact/jud-kelley/) to book (campsites are not booked via EventReg). There are also other campgrounds available on the island.
+Due to the event embargo, camping at Fort Casey and Fort Ebey state parks is *NOT PERMITTED* by competitors! Some camping is available at Camp Casey Conference Center (Athletes' Village) with access to restrooms, showers, and electric hook ups. Contact [Jud Kelley](http://cascadeoc.org/contact/jud-kelley/) to book (campsites are not booked via EventReg). There are also other campgrounds available on the island.

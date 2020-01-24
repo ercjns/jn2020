@@ -32,7 +32,7 @@ Details coming soon.
 
 ### Fort Ebey State Park (Model Map and Saturday Long)
 
-The Model map will be located in the northwest corner of Fort Ebey State Park. A [Discover Pass](https://store.discoverpass.wa.gov/) is required to enter the park.
+The model map will be located in the northwest corner of Fort Ebey State Park. A [Discover Pass](https://store.discoverpass.wa.gov/) is required to enter the park. If visiting the model map, you must not enter any areas of the park marked out of bounds. [Download the Fort Ebey model map](/assets/docs/JN2020ModelMap_Letter.pdf).
 
 Parking is limited at Fort Ebey State Park, and *all participants and volunteers* must take a free shuttle to the park on Saturday. Team vans will be allowed to drop off participants but the driver must park at the shuttle location. A [Discover Pass](https://store.discoverpass.wa.gov/) is required for all vehicles entering Fort Ebey State Park, even those just dropping off participants.
 
