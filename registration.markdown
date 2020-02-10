@@ -14,12 +14,9 @@ redirect_from: "/register"
 
 Official registration for Orienteering Events, Evening Activities, and Lodging in Athletes' Village is all via OUSA EventReg.
 
-_Final configurations are being made on EventReg, registration will open soon!_
-
-<!-- <a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Register on EventReg</a>
+<a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Register on EventReg</a>
 
 <a href="https://eventreg.orienteeringusa.org/eventregister/a40/reglist/home/jn2020">View Registrations and Start Times</a>
--->
 
 See the [Registration FAQ](#registration-faq) below if you have questions about which event class to register for.
 
