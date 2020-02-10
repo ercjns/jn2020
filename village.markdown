@@ -17,17 +17,16 @@ We're providing a unique Athletes' Village experience - there will be activities
 
 Reserve your spot in Athletes' Village when you register for orienteering on EventReg. (Coaches, Parents, Chaperones, and other non-racers staying at Athletes' Village must also reserve a spot via Event Reg, simply click through race registration - Athletes' Village is on the very last page.)
 
-_Final configurations are being made on EventReg, registration will open soon!_
-
-<!-- <a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Reserve your spot via EventReg</a>
--->
+<a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Reserve your spot via EventReg</a>
 
 ### Lodging
 
-Lodging at the Camp Casey Event Center is restored military housing from the early 1990s. We have a mix of beds in bunkrooms and 2-bed dorms. More details about the lodging can be found <a href="https://casey.spu.edu/staying-at-camp-casey/lodging/">here</a>. You'll be assigned to a floor based on gender. A limited number of beds are available for Thursday arrivals as well as Monday departures. 
+Lodging at the Camp Casey Event Center is restored military housing from the early 1990s. We have a mix of beds in bunkrooms and 2-bed dorms. General details about the Camp Casey lodging can be found <a href="https://casey.spu.edu/staying-at-camp-casey/lodging/">here</a>. You'll be assigned to a floor based on gender. A limited number of beds are available for Thursday arrivals as well as Monday departures. 
 
 ![Image of Bunkroom](./assets/img/Bunks.png)
 ![Image of 2 Bed Dorm](./assets/img/2BedDorm.png)
+
+Camp Casey has a limited number of linen sets available for the weekend. We ask that local participants please bring their own linen / sleeping bag in order to to keep these available to those who are traveling.
 
 Embargo note - participants staying in the accommodations at Camp Casey Conference Center or the Camp Casey Inn, or visiting those areas for meals other public use, may not venture into the forested areas for training or exploration purposes.
 
