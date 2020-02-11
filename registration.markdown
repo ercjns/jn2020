@@ -90,7 +90,7 @@ Yes, just leave an RSVP when you sign up in event reg.
 
 _10. I'm a parent or coach, can I register for my family or team and only make one payment?_
 
-Yes. First, make sure that all individuals who need to be are an OUSA member. You'll also need to be sure individuals have an updated OUSA profile or that you have all necessary contact information. Once that is complete, you can register each individual on EventReg. When you get to the waiver signing page, scroll all the way to the bottom and click "Skip Signing Waiver". On the next page, click "Register Another Orienteer for this Event" at the top. When you're done, you'll be able to make one payment.
+Yes. First, make sure that all individuals who need to be are an OUSA member. You’ll also need to be sure individuals have an updated OUSA profile or that you have all necessary contact information. Once that is complete, you can register each individual on EventReg. After completing the waiver page, on the next page, click “Register Another Orienteer for this Event” at the top. When you’re done registering all individuals, you’ll be able to make one payment with the pay now button.
 
 _11. I'm a chaperone and not competing, do I need to register on EventReg?_
 
