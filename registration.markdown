@@ -50,48 +50,70 @@ Events like this rely on many volunteers to keep things running smoothly. We app
 
 _1. Do I need to qualify to participate?_
 
-No. There are no qualifying times or races. Anyone may participate, but there are some requirements to be eligible for awards. In general, you must be a full time student and a current OUSA member. You can get your OUSA membership [here](https://orienteeringusa.org/membership/). See the below and the [OUSA rules](https://orienteeringusa.org/about/rules/) section A.37 for more details.
+No. There are no qualifying times or races. Registration is open to all.
 
 _2. Can foreign exchange students participate?_
 
-Yes. All foreign exchange students may participate on a team, as long as they are a full-time student and have an OUSA membership. Foreign exchange students are not eligible for individual medals.
+Yes. All foreign exchange students may participate on a team if they are a full-time student and have an OUSA membership.
 
-_3. I’m a grad student, can I participate in Intercollegiates?_
+_3. Is everyone eligible for awards?_
 
-Yes, under the following conditions: You must be a full time student, under age 28, and not have participated in more than 3 national championship intercollegiate meets.
+Anyone may participate, but there are some requirements to be eligible for awards. In general, you must be a full time student and a current OUSA member. You can get your OUSA membership here. See the below and the [OUSA rules](https://orienteeringusa.org/about/rules/) section A.37 for more details.
 
-_4. I attend a special school (charter school, choice school, alternative school) that has no sports program, can I participate?_
+Foreign exchange students are not eligible for individual medals.
 
-Yes. You may participate on a school team for: 
-- the school you attend (including if it is only for JROTC)
-- your neighborhood school that you would attend if you were not at a special school
-- the neighborhood school you will attend if you are running up a level.
-- a “Home School” team if all students are from the same geographical area and are all home schooled
+_4. I’m a grad student, can I participate in the Intercollegiate category?_
 
-_5. Is my school limited to one team at each level?_
+Yes, under the following conditions: You must be a full time student, under age 28, and not have participated in more than 3 national championship intercollegiate meets. Intercollegiate team members must all attend the same campus.
 
-No. You can have multiple school teams running the same level, but you must have use different team names to differentiate which students are on which team when you register. School teams are *co-ed* and are 3-5 students running at the same level. All students from the same school must be on a school team. (If you have 6 students at the same level, you must have 2 teams of 3 students).
+_5. I attend a charter school, choice school, or alternative school that has no sports program; can I participate?_
 
-_6. What is a school team vs a club team? What if I don't have enough students from the same school at one level to form a team?_
+Alternative schools: Students who are enrolled in an alternative school (such as a charter school, choice school, or pull-out school) where sports are typically offered through another school may participate with that other school with permission of the school that they currently attend.
 
-School teams consist of individuals from the same school. Club teams can be formed by individuals who wish to participate as a team but do not attend the same school. For special cases such as homeschool or head-start students, see school eligibility information in the [OUSA rules](https://orienteeringusa.org/about/rules/) section A.37.
+Homeschooled teams: Individuals who are homeschooled may form a SCHOOL team with other homeschooled individuals from the same geographical area. This area is defined as their county or city of residence or the public school district in which they reside, whichever area is geographically larger.
 
-_7. Should I participate in the Friday Sprint?_
+_5. How many people make up a team? Are teams by gender or co-ed?_
 
-If you are eyeing a spot on the OUSA JWOC team (Junior World Orienteering Championships), you should register for the sprint using the JWOC Trials M or JWOC Trials F classes. Anyone else arriving in time Friday is welcome to participate in the sprint on Beginner, Intermediate, or Advanced sprint courses. Results from the sprint do **NOT** contribute towards OUSA Junior Nationals awards. 
+School and club teams are co-ed and consist of 3-5 students running at the same level. All participants from the same school must be on a school team.
 
-_8. What class should I register for?_
+_6. Is my school limited to one team at each level?_
+
+No. You can have multiple school teams running the same level, but you must use different team names to differentiate which students are on which team when you register.
+
+_7. What is a school team vs a club team?_
+
+To be eligible as a SCHOOL team:
+- All team members must be enrolled full-time at the same school, as demonstrated by a school ID for the same school, OR have an authorized exception, as demonstrated by an [Orienteering USA School Team Exception Form](https://drive.google.com/open?id=1vI_llPZD3t8OlflYtx3QJGl1v1un0KCK).
+
+To be eligible as a CLUB team:
+- All team members must be primary Orienteering USA regular members of the same Orienteering USA sanctioned Orienteering Club.
+- The team must not be eligible as a SCHOOL or JROTC team.
+- The Coach of the Club Team shall provide a letter stating that all members meet the eligibility requirements.
+
+_8. What if I don’t have enough students from the same school at one level to form a team?_
+
+Please let the registrar know if you would like assistance in forming a club team. 
+
+_9. Does the Friday Sprint count towards JN2020 results?_
+
+No. Results from the sprint do **NOT** contribute towards OUSA Junior Nationals awards.
+
+However, if you are eyeing a spot on the OUSA JWOC team (Junior World Orienteering Championships), you should register for the sprint using the JWOC Trials M or JWOC Trials F classes. Anyone else arriving in time Friday is welcome to participate in the sprint on Beginner, Intermediate, or Advanced sprint courses.
+
+_10. What class should I register for?_
 
 Juniors should register for the appropriate Interscholastic (IS) or Intercollegiate (IC) class based on their grade and skill level. Age based classes (F-16, M-12) should only be used by juniors who do not qualify for Junior Nationals awards (for example: non-US Juniors).
 
 _9. I'm a junior staying off site, can I participate in evening social events?_
 
-Yes, just leave an RSVP when you sign up in event reg.
+Yes, but you need to register for these in event reg. The cost is $5 per event which includes activities and food.
 
 _10. I'm a parent or coach, can I register for my family or team and only make one payment?_
 
-Yes. First, make sure that all individuals who need to be are an OUSA member. You’ll also need to be sure individuals have an updated OUSA profile or that you have all necessary contact information. Once that is complete, you can register each individual on EventReg. After completing the waiver page, on the next page, click “Register Another Orienteer for this Event” at the top. When you’re done registering all individuals, you’ll be able to make one payment with the pay now button.
+Yes. If you are registering several *current OUSA members*, after completing the waiver page for the first registrant, continue and click “Register Another Orienteer for this Event” at the top. After registering all OUSA participants, you’ll be able to make one payment with the pay now button.
+
+Non-OUSA registrations, and membership purchases, must check out separately.
 
 _11. I'm a chaperone and not competing, do I need to register on EventReg?_
 
-If you are staying at the Athlete's village at Camp Casey, sign up for those accommodations via EventReg. We do need to collect contact information, but you'll be able to skip past events and only select room and board. If you're staying off site, you do not need to register.
+Chaperones should use EventReg (click ‘Register Now’ button) to sign up for accommodations, meals and social events at Athlete’s village at Camp Casey. If you’re staying off site and not participating in any social activities, you do not need to register.
