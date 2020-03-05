@@ -7,6 +7,8 @@ hide_hero: true
 show_sidebar: false
 menubar: leftnav
 ---
+<i class="fas fa-exclamation-triangle"></i> Check the [bulletins](./bulletins) for latest information and updates.
+
 # Travel
 
 Welcome! We're excited for you to join us in the Pacific Northwest! The event center is about an hour and a half drive north of Seattle, on beautiful Whidbey Island.

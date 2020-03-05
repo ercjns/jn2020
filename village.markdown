@@ -11,6 +11,8 @@ redirect_from: "/athletes-village"
 redirect_from: "/lodging"
 ---
 
+<i class="fas fa-exclamation-triangle"></i> Check the [bulletins](./bulletins) for latest information and updates.
+
 # Athletes' Village
 
 We're providing a unique Athletes' Village experience - there will be activities on site in the evenings, easy access to all of the orienteering venues, and opportunities to meet and learn from your fellow competitors, all for a simple room and board fee.

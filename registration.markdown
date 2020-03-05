@@ -10,6 +10,8 @@ menubar: leftnav
 redirect_from: "/register"
 ---
 
+<i class="fas fa-exclamation-triangle"></i> Check the [bulletins](./bulletins) for latest information and updates.
+
 ## Registration
 
 Official registration for Orienteering Events, Evening Activities, and Lodging in Athletes' Village is all via OUSA EventReg.
