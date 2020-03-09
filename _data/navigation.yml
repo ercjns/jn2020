@@ -20,3 +20,5 @@
     link: /merch
   - name: Contacts
     link: /contact
+- name: <div style="color:orange"><i class="fas fa-exclamation-triangle"></i>&nbspBulletins + COVID-19</div>
+  link: /bulletins
