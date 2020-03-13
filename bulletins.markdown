@@ -8,6 +8,15 @@ show_sidebar: false
 menubar: leftnav
 ---
 
+# 12 March 2020
+
+### Cascade Orienteering COVID-19 Event Planning Statement
+We are currently in the process of consulting with OUSA regarding cancellation or postponement of this event.
+
+In the past 24 hours since Cascade Orienteering Club posted an [event planning strategy](http://cascadeoc.org/wp-content/uploads/2020/03/COC_COVID19_20200311.pdf) for all COC events, there have been further emergency measures implemented at both local and national levels. The March 11 COC statement indicates a decision about this event would not be made until April 1. That is no longer the case.
+
+*We now expect to announce a decision regarding this event within the next few days, much earlier than anticipated. When a decision is made, information will be posted here as well as e-mailed to all registrants.*
+
 # 8 March 2020
 
 ### 2020 JWOC Team Trials COVID-19 Contingency Plan
