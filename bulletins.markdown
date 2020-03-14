@@ -8,6 +8,19 @@ show_sidebar: false
 menubar: leftnav
 ---
 
+# 13 March 2020
+
+### Event Cancellation Notice
+Due to the continuing situation with COVID-19, the closing of all schools in Washington State from 17 March until 24 April, and other situations beyond our control, Cascade Orienteering Club is cancelling the Junior National Orienteering Championships 17-19 April 2020.
+
+Cascade Orienteering will refund all registration fees. We are working with our t-shirt vendor to refund t-shirt orders.
+
+Please be patient as we work through this process. If you have any questions please contact the [Event Director](mailto:judson.kelley@comcast.net).
+
+Thanks for your support of orienteering. Be healthy and safe out there. <br />
+Jud Kelley<br />
+JN2020 Event Director
+
 # 12 March 2020
 
 ### Cascade Orienteering COVID-19 Event Planning Statement

@@ -10,13 +10,15 @@ menubar: leftnav
 redirect_from: "/register"
 ---
 
-<i class="fas fa-exclamation-triangle"></i> Check the [bulletins](./bulletins) for latest information and updates.
+<i class="fas fa-exclamation-triangle"></i> This event has been cancelled! Check the [bulletins](./bulletins) for latest information.
 
 ## Registration
 
 Official registration for Orienteering Events, Evening Activities, and Lodging in Athletes' Village is all via OUSA EventReg.
 
-<a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Register on EventReg</a>
+*Registraion link removed*
+
+<!--<a class="button is-info" href="https://eventreg.orienteeringusa.org/eventregister/a40/register/start/jn2020">Register on EventReg</a>-->
 
 <a href="https://eventreg.orienteeringusa.org/eventregister/a40/reglist/home/jn2020">View Registrations and Start Times</a>
 
@@ -46,7 +48,7 @@ Room and Board in [**Athletes Village**](./village) starts at $65.00 per night.
 
 Events like this rely on many volunteers to keep things running smoothly. We appreciate you considering spending an hour or two of your time helping us make this a great experience. Sign up on Cascade Orienteering's volunteer system.
 
-<a class="button is-info" href="https://register.cascadeoc.org/Volunteer">Volunteer with COC</a>
+<!-- <a class="button is-info" href="https://register.cascadeoc.org/Volunteer">Volunteer with COC</a> -->
 
 ## Registration FAQ
 
